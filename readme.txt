@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: Crisium
 Donate link: http://tumblingdrills.com/help-improve
-Tags: 1.0
+Tags: 1.0,1.1
 Requires at least: 2.0.2
 Tested up to: 3.3.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,6 +38,9 @@ Use the [googlecalendarlist] on your pages or posts to see the event list.
 
 = 1.0 =
 * Initial commit.
+
+= 0.1 =
+* add some documentation
 
 == Upgrade Notice ==
 
